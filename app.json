@@ -1,0 +1,1 @@
+{"expo":{"name":"Foodie","slug":"foodie-recipe-app","version":"1.0.0","orientation":"portrait","userInterfaceStyle":"light","web":{"bundler":"metro"},"plugins":[["expo-image-picker",{"photosPermission":"Choose a photo for your recipe.","microphonePermission":false}]]}}
