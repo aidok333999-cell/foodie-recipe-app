@@ -54,7 +54,7 @@ Four automated model tests cover category completeness, favorite toggling, creat
 
 - `App.js`: responsive UI, navigation, forms, image picker and persistence.
 - `model.js`: twelve recipes and pure recipe operations.
-- `tests/model.test.cjs`: automated recipe tests.
+- `tests/model.test.js`: automated recipe tests.
 - `app.json`: Expo configuration.
 
 Sample food photography is served from Unsplash; it is illustrative and may not depict the exact recipe.
